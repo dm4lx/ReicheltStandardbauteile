@@ -13,6 +13,7 @@
 
 | n-Ch | p-Ch | Beschreibung | Gehäuse |
 | --- | --- | --- | --- |
+| 2N7000 | | General Purpose 60 V 115 mA 1,7 Ohm | THT TO-92 |
 | 2N7002 | | General Purpose 60 V 300 mA 2,8 Ohm | SMD SOT-23 |
 
 # Timing
