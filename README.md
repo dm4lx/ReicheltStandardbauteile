@@ -1,6 +1,11 @@
 # ReicheltStandardbauteile
  Auf Reichelt verfügbare Standardbauteile.
  
+# Dioden Schottky
+| Name | Beschreibung | Gehäuse |
+| --- | --- |
+| BAT43 | General Purpose 30 V 200 mA | THT DO-35 |
+ 
 # Transistoren Bipolar
 
 | NPN | PNP | Beschreibung | Gehäuse |
